@@ -1,0 +1,15 @@
+{
+  "name": "simple-template-engine",
+  "version": "0.0.1",
+  "description": "a simple template engine for study",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js"
+  },
+  "keywords": [
+    "template",
+    "engine"
+  ],
+  "author": "GeminiWen",
+  "license": "LGPL"
+}
